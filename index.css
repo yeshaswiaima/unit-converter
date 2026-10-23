@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: #6943FF;
+;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.components-cls{
+    background-color: white;
+    color:black;
+    padding:40px;
+    margin: 10px 30px;
+    text-align: center;
+    
+}
+#components{
+    background-color: #F4F4F4;
+;
+    padding:24px 36px;
+    width:100vw;
+    display: flex;
+    flex-direction: column;
+    gap:24px;}
+    
+#convert-btn{
+    padding:10px 20px;
+    border-radius: 5px;
+    border:none;
+    margin-bottom: 30px;
+}
+
+#value-el{
+    border: 2px solid lightgray;
+    width: 50px;
+    height: 30px;
+    padding:20px 20px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
